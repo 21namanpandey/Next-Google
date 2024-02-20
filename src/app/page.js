@@ -1,7 +1,10 @@
+import HomeHeader from "@/components/HomeHeader"
 
 const Home = () => {
   return (
-    <div className=" text-red-500">Home</div>
+    <>
+      <HomeHeader />
+    </>
   )
 }
 
