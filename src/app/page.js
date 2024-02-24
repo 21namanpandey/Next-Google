@@ -13,7 +13,7 @@ const Home = () => {
           width={300}
           height={100}
           priority
-          style={{width:"auto", height:"auto"}}
+          style={{width:"auto"}}
         />
       <HomeSearch/>
       </div> 
